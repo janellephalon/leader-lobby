@@ -1,0 +1,22 @@
+{
+  "name": "leader-lobby",
+  "version": "1.0.0",
+  "description": "## Purpose  * Leader Lobby is designed to provide management with quick and easy access to team information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janellephalon/leader-lobby.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janellephalon/leader-lobby/issues"
+  },
+  "homepage": "https://github.com/janellephalon/leader-lobby#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
